@@ -1,0 +1,2 @@
+{"method":"GET","url":"/","params":{},"query":{},"body":{"id":201,"userId":1,"title":"Deneme","completed":true},"date":"2021-05-07T14:52:00.800Z"}
+{"method":"GET","url":"/user/2","params":{"userId":"2"},"query":{},"body":{"id":201,"userId":1,"title":"Deneme","completed":true},"date":"2021-05-07T14:52:30.847Z"}
